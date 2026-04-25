@@ -1,0 +1,4632 @@
+[
+  {
+    "case_id": "2024-CV-00001",
+    "title": "Green Energy LLC vs. State of New York",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2020-10-16",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-12-19"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2024-09-17"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2024-05-11"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against State of New York filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00002",
+    "title": "Green Energy LLC vs. City of Houston",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2024-09-22",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-03-19"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-01-10"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-10-26"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2018-08-18"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2022-09-15"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against City of Houston filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00003",
+    "title": "Tech Solutions Inc vs. Johnson Corp",
+    "court": "US Supreme Court",
+    "date_filed": "2018-04-05",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-10-10"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-01-06"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-12-20"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2023-10-02"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-09-23"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against Johnson Corp filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00004",
+    "title": "Maria Garcia vs. MegaBank NA",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2023-02-17",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-12-04"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2018-06-25"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-03-24"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2018-02-14"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-01-20"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against MegaBank NA filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00005",
+    "title": "John Smith vs. City of Houston",
+    "court": "US Supreme Court",
+    "date_filed": "2020-03-17",
+    "status": "open",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-08-11"
+      }
+    ],
+    "summary": "Case involving John Smith against City of Houston filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00006",
+    "title": "Green Energy LLC vs. State of New York",
+    "court": "US Supreme Court",
+    "date_filed": "2022-07-25",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-01-02"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-04-18"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-02-06"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-02-25"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against State of New York filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00007",
+    "title": "Maria Garcia vs. PharmaCo Ltd",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2024-11-11",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2022-11-23"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-10-05"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-01-07"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2024-08-15"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against PharmaCo Ltd filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00008",
+    "title": "Green Energy LLC vs. Johnson Corp",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2022-06-01",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-07-16"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2024-10-02"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-12-08"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-12-16"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2021-05-01"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against Johnson Corp filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00009",
+    "title": "Maria Garcia vs. State of New York",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2021-12-24",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-02-17"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-05-07"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against State of New York filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00010",
+    "title": "Tech Solutions Inc vs. PharmaCo Ltd",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2019-07-30",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-07-09"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-02-08"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-07-06"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-09-07"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-05-24"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against PharmaCo Ltd filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00011",
+    "title": "Maria Garcia vs. PharmaCo Ltd",
+    "court": "US Supreme Court",
+    "date_filed": "2018-05-10",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2024-04-11"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-05-10"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-02-08"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2018-09-25"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against PharmaCo Ltd filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00012",
+    "title": "John Smith vs. City of Houston",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2018-12-12",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-09-29"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-08-24"
+      }
+    ],
+    "summary": "Case involving John Smith against City of Houston filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00013",
+    "title": "Robert Brown vs. Johnson Corp",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2019-02-14",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-10-05"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-05-03"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-08-21"
+      }
+    ],
+    "summary": "Case involving Robert Brown against Johnson Corp filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00014",
+    "title": "Tech Solutions Inc vs. MegaBank NA",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2021-07-06",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2022-09-12"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-06-06"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-06-09"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-06-13"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against MegaBank NA filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00015",
+    "title": "John Smith vs. PharmaCo Ltd",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2018-01-11",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2018-01-04"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-03-06"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-10-12"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-12-01"
+      }
+    ],
+    "summary": "Case involving John Smith against PharmaCo Ltd filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00016",
+    "title": "Robert Brown vs. Johnson Corp",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2019-07-26",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-04-21"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-12-02"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2021-08-23"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-03-05"
+      }
+    ],
+    "summary": "Case involving Robert Brown against Johnson Corp filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00017",
+    "title": "Tech Solutions Inc vs. MegaBank NA",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2018-04-13",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-10-06"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-05-17"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-04-01"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-10-13"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-03-02"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against MegaBank NA filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00018",
+    "title": "Tech Solutions Inc vs. State of New York",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2024-01-09",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-03-31"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2018-11-08"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-05-25"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-12-25"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-02-19"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against State of New York filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00019",
+    "title": "Tech Solutions Inc vs. City of Houston",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2023-12-19",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-12-23"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2018-12-25"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against City of Houston filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00020",
+    "title": "Tech Solutions Inc vs. State of New York",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2019-06-14",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-02-13"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-02-01"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-09-10"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-12-09"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against State of New York filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00021",
+    "title": "John Smith vs. Johnson Corp",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2022-12-02",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-05-11"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2022-03-20"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-10-21"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-04-09"
+      }
+    ],
+    "summary": "Case involving John Smith against Johnson Corp filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00022",
+    "title": "Maria Garcia vs. MegaBank NA",
+    "court": "US Supreme Court",
+    "date_filed": "2022-05-18",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2018-01-04"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-07-26"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2022-07-16"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-04-02"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2024-11-02"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against MegaBank NA filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00023",
+    "title": "Green Energy LLC vs. City of Houston",
+    "court": "US Supreme Court",
+    "date_filed": "2021-02-02",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-06-03"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-10-16"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-03-04"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-04-10"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against City of Houston filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00024",
+    "title": "Robert Brown vs. City of Houston",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2018-09-14",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2021-09-03"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-06-21"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-08-06"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-06-27"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2023-01-18"
+      }
+    ],
+    "summary": "Case involving Robert Brown against City of Houston filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00025",
+    "title": "Green Energy LLC vs. City of Houston",
+    "court": "US Supreme Court",
+    "date_filed": "2019-06-28",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2024-06-23"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against City of Houston filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00026",
+    "title": "Tech Solutions Inc vs. PharmaCo Ltd",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2019-02-06",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-08-04"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-10-06"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-05-20"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-10-16"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against PharmaCo Ltd filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00027",
+    "title": "Robert Brown vs. MegaBank NA",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2023-10-18",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-10-12"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2018-08-16"
+      }
+    ],
+    "summary": "Case involving Robert Brown against MegaBank NA filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00028",
+    "title": "Maria Garcia vs. Johnson Corp",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2023-06-09",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2022-04-18"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against Johnson Corp filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00029",
+    "title": "Green Energy LLC vs. MegaBank NA",
+    "court": "US Supreme Court",
+    "date_filed": "2023-11-25",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2018-10-24"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against MegaBank NA filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00030",
+    "title": "Green Energy LLC vs. City of Houston",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2021-07-14",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-05-26"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-10-13"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-11-11"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-06-14"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-10-12"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against City of Houston filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00031",
+    "title": "Green Energy LLC vs. State of New York",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2018-11-22",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-06-25"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-05-31"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against State of New York filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00032",
+    "title": "Green Energy LLC vs. State of New York",
+    "court": "US Supreme Court",
+    "date_filed": "2022-04-14",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-09-04"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2024-04-08"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2021-12-22"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2021-08-03"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-09-25"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against State of New York filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00033",
+    "title": "Green Energy LLC vs. State of New York",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2018-11-26",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-02-08"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against State of New York filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00034",
+    "title": "Maria Garcia vs. City of Houston",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2024-01-03",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-01-16"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against City of Houston filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00035",
+    "title": "Robert Brown vs. PharmaCo Ltd",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2022-06-20",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-12-18"
+      }
+    ],
+    "summary": "Case involving Robert Brown against PharmaCo Ltd filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00036",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2022-03-05",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-06-09"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-10-28"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-08-18"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00037",
+    "title": "Maria Garcia vs. MegaBank NA",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2022-05-22",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-06-17"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-05-04"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-03-31"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against MegaBank NA filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00038",
+    "title": "Robert Brown vs. Johnson Corp",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2023-08-30",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-09-25"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2021-08-23"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-12-02"
+      }
+    ],
+    "summary": "Case involving Robert Brown against Johnson Corp filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00039",
+    "title": "Tech Solutions Inc vs. MegaBank NA",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2021-12-19",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-04-16"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2022-04-15"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-08-26"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2021-09-29"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-10-26"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against MegaBank NA filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00040",
+    "title": "Robert Brown vs. City of Houston",
+    "court": "US Supreme Court",
+    "date_filed": "2024-07-30",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2022-11-20"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-01-07"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2018-09-30"
+      }
+    ],
+    "summary": "Case involving Robert Brown against City of Houston filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00041",
+    "title": "Robert Brown vs. PharmaCo Ltd",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2023-07-24",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-04-21"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2024-12-03"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2021-08-19"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-05-11"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-07-20"
+      }
+    ],
+    "summary": "Case involving Robert Brown against PharmaCo Ltd filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00042",
+    "title": "Maria Garcia vs. MegaBank NA",
+    "court": "US Supreme Court",
+    "date_filed": "2023-06-03",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-08-31"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-10-30"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-11-19"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against MegaBank NA filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00043",
+    "title": "Maria Garcia vs. City of Houston",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2022-09-07",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-06-14"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-10-16"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against City of Houston filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00044",
+    "title": "Green Energy LLC vs. MegaBank NA",
+    "court": "US Supreme Court",
+    "date_filed": "2019-12-17",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-08-01"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-07-20"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-09-14"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-08-04"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against MegaBank NA filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00045",
+    "title": "Tech Solutions Inc vs. Johnson Corp",
+    "court": "US Supreme Court",
+    "date_filed": "2018-01-19",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-03-11"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2018-01-22"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2022-01-23"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-01-06"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against Johnson Corp filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00046",
+    "title": "Maria Garcia vs. State of New York",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2024-01-06",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-08-19"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-11-06"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2022-10-13"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-04-05"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against State of New York filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00047",
+    "title": "John Smith vs. Johnson Corp",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2024-11-25",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-11-25"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2021-04-12"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2018-05-29"
+      }
+    ],
+    "summary": "Case involving John Smith against Johnson Corp filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00048",
+    "title": "Tech Solutions Inc vs. PharmaCo Ltd",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2018-11-08",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-05-28"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2022-08-16"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2020-03-24"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against PharmaCo Ltd filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00049",
+    "title": "Tech Solutions Inc vs. PharmaCo Ltd",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2023-07-28",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-06-25"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2022-09-28"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2022-12-04"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-04-26"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against PharmaCo Ltd filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00050",
+    "title": "Maria Garcia vs. City of Houston",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2022-10-29",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-09-01"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-12-29"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-09-25"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2024-06-23"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against City of Houston filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00051",
+    "title": "John Smith vs. Johnson Corp",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2023-06-27",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2024-05-02"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-03-16"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-05-31"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-06-28"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2018-12-24"
+      }
+    ],
+    "summary": "Case involving John Smith against Johnson Corp filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00052",
+    "title": "Maria Garcia vs. City of Houston",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2022-04-13",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-11-24"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-08-19"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against City of Houston filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00053",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2019-11-27",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-02-01"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-05-09"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-12-24"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2023-03-15"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-05-09"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00054",
+    "title": "Green Energy LLC vs. MegaBank NA",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2023-11-08",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-02-13"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-12-21"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-10-12"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against MegaBank NA filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00055",
+    "title": "Robert Brown vs. Johnson Corp",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2018-06-09",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-06-23"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-12-15"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-01-23"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-08-17"
+      }
+    ],
+    "summary": "Case involving Robert Brown against Johnson Corp filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00056",
+    "title": "Tech Solutions Inc vs. City of Houston",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2024-12-03",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2020-04-28"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-07-25"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-05-25"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-06-19"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-08-29"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against City of Houston filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00057",
+    "title": "Green Energy LLC vs. Johnson Corp",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2021-02-18",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-06-12"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2018-06-11"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against Johnson Corp filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00058",
+    "title": "John Smith vs. State of New York",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2018-09-22",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-06-23"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-12-04"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-04-01"
+      }
+    ],
+    "summary": "Case involving John Smith against State of New York filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00059",
+    "title": "Maria Garcia vs. PharmaCo Ltd",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2020-02-18",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-02-13"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-06-15"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2021-05-24"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-06-21"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against PharmaCo Ltd filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00060",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US Supreme Court",
+    "date_filed": "2020-05-23",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-08-08"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00061",
+    "title": "Green Energy LLC vs. MegaBank NA",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2020-12-17",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-08-20"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-11-21"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against MegaBank NA filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00062",
+    "title": "John Smith vs. Johnson Corp",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2021-07-29",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-07-04"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2021-11-03"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-10-28"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-03-25"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2018-09-14"
+      }
+    ],
+    "summary": "Case involving John Smith against Johnson Corp filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00063",
+    "title": "Maria Garcia vs. MegaBank NA",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2021-10-03",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2022-01-17"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-03-05"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against MegaBank NA filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00064",
+    "title": "Robert Brown vs. City of Houston",
+    "court": "US Supreme Court",
+    "date_filed": "2018-11-17",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-09-10"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2022-12-06"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-08-02"
+      }
+    ],
+    "summary": "Case involving Robert Brown against City of Houston filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00065",
+    "title": "Tech Solutions Inc vs. State of New York",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2020-03-01",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2023-12-14"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-05-22"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2020-07-25"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2022-12-31"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against State of New York filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00066",
+    "title": "Green Energy LLC vs. MegaBank NA",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2021-06-09",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-10-04"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-04-30"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against MegaBank NA filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00067",
+    "title": "John Smith vs. State of New York",
+    "court": "US Supreme Court",
+    "date_filed": "2019-09-14",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-08-26"
+      }
+    ],
+    "summary": "Case involving John Smith against State of New York filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00068",
+    "title": "Maria Garcia vs. Johnson Corp",
+    "court": "US Supreme Court",
+    "date_filed": "2021-07-16",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-06-01"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-05-14"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2022-08-12"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against Johnson Corp filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00069",
+    "title": "John Smith vs. City of Houston",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2021-10-13",
+    "status": "open",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-02-27"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-06-15"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2023-10-22"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-04-25"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-10-07"
+      }
+    ],
+    "summary": "Case involving John Smith against City of Houston filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00070",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2018-06-06",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2020-12-01"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-12-25"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-02-18"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-11-12"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00071",
+    "title": "John Smith vs. State of New York",
+    "court": "US Supreme Court",
+    "date_filed": "2018-01-12",
+    "status": "open",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-09-22"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-07-23"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-08-20"
+      }
+    ],
+    "summary": "Case involving John Smith against State of New York filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00072",
+    "title": "Maria Garcia vs. State of New York",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2022-07-05",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2022-08-05"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-03-28"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against State of New York filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00073",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2024-11-27",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-06-14"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-07-23"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-04-02"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-09-13"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-03-16"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00074",
+    "title": "Green Energy LLC vs. State of New York",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2020-05-03",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2022-06-09"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-04-12"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2020-12-08"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-11-25"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against State of New York filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00075",
+    "title": "Maria Garcia vs. Johnson Corp",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2024-09-28",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2023-04-02"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against Johnson Corp filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00076",
+    "title": "John Smith vs. Johnson Corp",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2024-01-13",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2024-09-07"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-06-04"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-04-20"
+      }
+    ],
+    "summary": "Case involving John Smith against Johnson Corp filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00077",
+    "title": "Tech Solutions Inc vs. City of Houston",
+    "court": "US Supreme Court",
+    "date_filed": "2018-06-03",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-02-20"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-10-03"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-09-29"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-10-27"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against City of Houston filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00078",
+    "title": "Tech Solutions Inc vs. Johnson Corp",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2022-10-18",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-09-21"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against Johnson Corp filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00079",
+    "title": "John Smith vs. Johnson Corp",
+    "court": "US Supreme Court",
+    "date_filed": "2022-07-02",
+    "status": "open",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-12-26"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-07-13"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-10-08"
+      }
+    ],
+    "summary": "Case involving John Smith against Johnson Corp filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00080",
+    "title": "Green Energy LLC vs. City of Houston",
+    "court": "US Supreme Court",
+    "date_filed": "2021-08-12",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-07-04"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2019-05-11"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-08-28"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-05-31"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against City of Houston filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00081",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US Supreme Court",
+    "date_filed": "2019-06-08",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-10-07"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-04-09"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2022-09-07"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2022-03-13"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00082",
+    "title": "John Smith vs. Johnson Corp",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2023-06-01",
+    "status": "open",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2023-09-30"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2022-02-26"
+      }
+    ],
+    "summary": "Case involving John Smith against Johnson Corp filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00083",
+    "title": "John Smith vs. State of New York",
+    "court": "US Supreme Court",
+    "date_filed": "2024-10-14",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-07-06"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-06-07"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2021-09-20"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2023-04-15"
+      }
+    ],
+    "summary": "Case involving John Smith against State of New York filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00084",
+    "title": "Tech Solutions Inc vs. Johnson Corp",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2022-03-27",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-01-11"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-06-29"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2022-05-24"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2021-08-02"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-01-10"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against Johnson Corp filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00085",
+    "title": "Maria Garcia vs. PharmaCo Ltd",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2021-08-08",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Maria Garcia",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2019-09-08"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2018-05-04"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-03-13"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2020-05-30"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-07-02"
+      }
+    ],
+    "summary": "Case involving Maria Garcia against PharmaCo Ltd filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00086",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2022-09-04",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2023-08-05"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-12-25"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2022-11-15"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2024-05-17"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00087",
+    "title": "John Smith vs. City of Houston",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2019-03-02",
+    "status": "open",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-11-19"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-10-13"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-08-10"
+      }
+    ],
+    "summary": "Case involving John Smith against City of Houston filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00088",
+    "title": "Tech Solutions Inc vs. MegaBank NA",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2024-06-12",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-05-12"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2018-06-20"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2022-06-29"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against MegaBank NA filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00089",
+    "title": "Robert Brown vs. City of Houston",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2023-02-26",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2020-04-24"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-11-26"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2018-02-11"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-01-23"
+      }
+    ],
+    "summary": "Case involving Robert Brown against City of Houston filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00090",
+    "title": "John Smith vs. State of New York",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2022-09-30",
+    "status": "open",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-08-26"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2024-03-20"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2020-10-26"
+      }
+    ],
+    "summary": "Case involving John Smith against State of New York filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00091",
+    "title": "Robert Brown vs. Johnson Corp",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2022-03-10",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "Johnson Corp",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2020-01-23"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2018-05-22"
+      }
+    ],
+    "summary": "Case involving Robert Brown against Johnson Corp filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00092",
+    "title": "Tech Solutions Inc vs. PharmaCo Ltd",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2020-12-11",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Tech Solutions Inc",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-12-15"
+      }
+    ],
+    "summary": "Case involving Tech Solutions Inc against PharmaCo Ltd filed at US Supreme Court."
+  },
+  {
+    "case_id": "2024-CV-00093",
+    "title": "Robert Brown vs. MegaBank NA",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2022-11-08",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "MegaBank NA",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-03-30"
+      }
+    ],
+    "summary": "Case involving Robert Brown against MegaBank NA filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00094",
+    "title": "John Smith vs. City of Houston",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2021-09-06",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "John Smith",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-06-15"
+      }
+    ],
+    "summary": "Case involving John Smith against City of Houston filed at US Court of Appeals - 2nd Circuit."
+  },
+  {
+    "case_id": "2024-CV-00095",
+    "title": "Robert Brown vs. PharmaCo Ltd",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2020-02-09",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Sarah Johnson",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2019-04-10"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2019-09-05"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2018-05-19"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2020-04-09"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2023-07-21"
+      }
+    ],
+    "summary": "Case involving Robert Brown against PharmaCo Ltd filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00096",
+    "title": "Robert Brown vs. PharmaCo Ltd",
+    "court": "US Supreme Court",
+    "date_filed": "2021-03-17",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2023-11-23"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2019-05-13"
+      },
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2021-06-23"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2021-08-22"
+      }
+    ],
+    "summary": "Case involving Robert Brown against PharmaCo Ltd filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00097",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US District Court - Northern CA",
+    "date_filed": "2018-09-10",
+    "status": "appealed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Emma Wilson",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-02-21"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2024-05-23"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US District Court - Northern CA."
+  },
+  {
+    "case_id": "2024-CV-00098",
+    "title": "Green Energy LLC vs. PharmaCo Ltd",
+    "court": "US District Court - Eastern TX",
+    "date_filed": "2024-04-05",
+    "status": "closed",
+    "parties": [
+      {
+        "name": "Green Energy LLC",
+        "role": "plaintiff"
+      },
+      {
+        "name": "PharmaCo Ltd",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "appeal.pdf",
+        "type": "appeal",
+        "date": "2022-01-26"
+      },
+      {
+        "filename": "motion.pdf",
+        "type": "motion",
+        "date": "2022-08-08"
+      },
+      {
+        "filename": "complaint.pdf",
+        "type": "complaint",
+        "date": "2024-10-13"
+      },
+      {
+        "filename": "judgment.pdf",
+        "type": "judgment",
+        "date": "2023-12-17"
+      },
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2022-12-21"
+      }
+    ],
+    "summary": "Case involving Green Energy LLC against PharmaCo Ltd filed at US District Court - Southern NY."
+  },
+  {
+    "case_id": "2024-CV-00099",
+    "title": "Robert Brown vs. City of Houston",
+    "court": "US Court of Appeals - 2nd Circuit",
+    "date_filed": "2018-11-30",
+    "status": "open",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "City of Houston",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "Alice Brown",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2020-02-05"
+      }
+    ],
+    "summary": "Case involving Robert Brown against City of Houston filed at US District Court - Eastern TX."
+  },
+  {
+    "case_id": "2024-CV-00100",
+    "title": "Robert Brown vs. State of New York",
+    "court": "US District Court - Southern NY",
+    "date_filed": "2019-07-28",
+    "status": "pending",
+    "parties": [
+      {
+        "name": "Robert Brown",
+        "role": "plaintiff"
+      },
+      {
+        "name": "State of New York",
+        "role": "defendant"
+      }
+    ],
+    "attorneys": [
+      {
+        "name": "Michael Chen",
+        "represents": "plaintiff"
+      },
+      {
+        "name": "David Lee",
+        "represents": "plaintiff"
+      }
+    ],
+    "documents": [
+      {
+        "filename": "settlement.pdf",
+        "type": "settlement",
+        "date": "2018-10-23"
+      }
+    ],
+    "summary": "Case involving Robert Brown against State of New York filed at US Court of Appeals - 2nd Circuit."
+  }
+]
